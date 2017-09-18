@@ -1,0 +1,6 @@
+Key-Value Store Assumptions ->
+
+
+1. We are taking both key and value as string
+2. We are using @ as a seperator so we assume that it does not occur as a part of string
+
